@@ -1,0 +1,9 @@
+[
+  {
+    "username": "andrew-tanenbaum",
+    "password": "user1234",
+    "email": "andrew.j.tanenbaum@protonmail.com",
+    "gender": "male",
+    "isLoggedIn": false
+  }
+]
